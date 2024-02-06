@@ -1,0 +1,50 @@
+.box{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(0, 0, 255, 0.781);
+    margin-left: 150px;
+    margin-top: 25px;
+    border-radius: 20px;
+    background-image: url(../images/pariss.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p{
+    margin-top: -325px;
+    margin-left: 152px;
+    font-size: 20px;
+    color: black;
+}
+.box-1{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(0, 0, 255, 0.781);
+    margin-top: -190px;
+    margin-left: 750px;
+    border-radius: 20px;
+    background-image: url(../images/tehran.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p-1{
+    margin-left: 770px;
+    margin-top: -375px;
+    font-size: 20px;
+    color: black;
+}
+.box-2{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(0, 0, 255, 0.781);
+    margin-top: 350px;
+    margin-left: 450px;
+    border-radius: 20px;
+    background-image: url(../images/landan.jpg);
+    background-size: cover;
+}
+.p-2{
+    margin-left: 485px;
+    margin-top: -380px;
+    color: black;
+    font-size: 25px;
+}
